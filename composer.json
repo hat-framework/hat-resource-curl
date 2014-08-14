@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/curl",
+    "name": "hatframework/hat-resource-curl",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/curl",
+    "homepage": "https://github.com/hat-framework/hat-resource-curl",
     "license": "MIT",
     "authors": [
         {
